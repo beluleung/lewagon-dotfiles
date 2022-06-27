@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = beluleung@gmail.com
+	name = belu leung
